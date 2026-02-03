@@ -1,21 +1,39 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "tclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3744730?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "trentwintermeier",
+    "is_private": false,
+    "title": "Zora Neale Hurston's WPA Field Recordings",
+    "description": "\nThis digital edition by Tanya Clement transcribes and contextualizes recordings of the Harlem Renaissance writer and anthropologist Zora Neale Hurston doing fieldwork in Jacksonville, FL.",
+    "language": "en",
+    "slug": "ZNH-AVAnnotate-Project",
+    "creator": "trentwintermeier",
+    "authors": "FirstName, LastName",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "tclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3744730?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-02-03T20:24:01.004Z",
+    "updated_at": "2026-02-03T20:24:01.004Z"
   }
 }
